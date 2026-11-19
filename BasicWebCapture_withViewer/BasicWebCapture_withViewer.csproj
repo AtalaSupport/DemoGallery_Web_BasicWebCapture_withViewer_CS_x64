@@ -88,8 +88,8 @@
     <Content Include="WebDocViewer\images\atala-ui-icons-16.png" />
     <Content Include="WebDocViewer\images\atala-ui-spinner.gif" />
     <Content Include="WebDocViewerHandler.ashx" />
-    <Content Include="WebCapture\Kofax.WebCapture.Installer.msi" />
-    <Content Include="WebCapture\Kofax.WebCapture.macOS.pkg" />
+    <Content Include="WebCapture\Tungsten.WebCapture.Installer.msi" />
+    <Content Include="WebCapture\Tungsten.WebCapture.macOS.pkg" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
