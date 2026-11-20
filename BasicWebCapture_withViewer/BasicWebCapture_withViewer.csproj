@@ -43,11 +43,11 @@
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage.WebControls">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>c:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x64\Atalasoft.dotImage.WebControls.dll</HintPath>
+      <HintPath>c:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.WebControls.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>c:\Program Files (x86)\Atalasoft\DotImage 11.2\bin\4.5.2\x64\Atalasoft.Shared.dll</HintPath>
+      <HintPath>c:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data.DataSetExtensions" />
